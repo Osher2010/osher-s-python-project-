@@ -1,0 +1,3 @@
+﻿Station-id = 198
+Alarm    on = 1 
+Alarm off = 0
